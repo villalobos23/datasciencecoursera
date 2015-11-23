@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository for Coursera JHSPH Data Science Courses
+Repository for Coursera JHSPH Data Science Courses.
